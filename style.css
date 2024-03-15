@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    font-family: cursive;
+    font-size: 40px;
+    background-color: aqua;
+}
+input{
+    font-size: 30px;
+    padding: 10px;
+    border-radius: 20px;
+}
+button{
+    border-radius: 20px;
+    background-color: salmon;
+    padding: 10px;
+    font-size: 30px;
+}
+ul li{
+   list-style-type: lower-latin;
+}
